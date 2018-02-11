@@ -31,6 +31,7 @@ section img {
     float: left;
 }
 section div {
+    width: 400px;
     width: calc(45%-33px);
     float: left;
     padding-left: 30px;
@@ -51,7 +52,7 @@ section div p {
     font-style: bold;
     line-height: 24px;
     float: right;
-}
+} 
 button {
     border: none;
     padding: 10px 30px;
